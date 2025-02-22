@@ -26,7 +26,11 @@ The dataset contains:
 
 ## Installation
 To run the project, install the required dependencies:
-pip install torch transformers pandas scikit-learn numpy
+**pip install torch transformers pandas scikit-learn numpy**
+
+## Execution
+To run just run the command in VS code terminal
+**streamlit run app.py**
 
 ## Conclusion
 This project provides an efficient recommendation system using **transformers** to understand natural language queries and match them with mobile phone specifications.
